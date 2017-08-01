@@ -1,0 +1,5 @@
+com.gtm.proxybanque.constants
+com.gtm.proxybanque.metier
+com.gtm.proxybanque.presentation
+com.gtm.proxybanque.service
+com.gtm.proxybanque.test
